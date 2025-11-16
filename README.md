@@ -35,13 +35,12 @@ Here are some of the tools and mini-projects you’ll find in this collection:
 
 ### Project Structure
 ```
-java-tools/
-├── frontend/
-│   ├── index.html              # Main HTML file
-│   ├── styles.css              # Styling and theme
-│   └── script.js               # JavaScript logic
+java-project/
 │ 
-│
+├── index.html              # Main HTML file
+├── styles.css              # Styling and theme
+├── script.js               # JavaScript logic
+│ 
 └── backend/
     └── src/
         └── main/
